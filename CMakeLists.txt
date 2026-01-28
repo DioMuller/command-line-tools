@@ -4,3 +4,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 # Add executable target with source files listed in SOURCE_FILES variable
 add_executable(mediarenamer src/mediarenamer.cpp)
+
+add_executable(foldercreator src/foldercreator.cpp)
